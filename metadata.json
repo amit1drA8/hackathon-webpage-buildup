@@ -1,0 +1,7 @@
+{
+  "name": "hackathon webpage",
+  "description": "An AI-powered academic support and issue management system for college students and administrators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
